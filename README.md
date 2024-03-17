@@ -13,7 +13,7 @@
 
 <a href="https://linkedin.com/in/vitor-eduardo-de-lima-kenor-803464273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="peter kimanzi" height="30" width="40" /></a>
 </p>
-<h3 align="left">Idiomas e ferramentas:</h3>
+<h3 align="left">linguagens e ferramentas:</h3>
 
 [![Idiomas e ferramentas](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Idiomas e ferramentas](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.google/)
