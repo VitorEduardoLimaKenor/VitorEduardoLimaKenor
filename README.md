@@ -1,4 +1,4 @@
-[![MasterHead](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDQzOWF0MjJmanc1cGk5ZTFwZnMyazQyZm5uZ2lqd3BxY3VndjhybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FNfcWhlz0GTkzcnZWh/giphy.gif)]()
+[![MasterHead](https://colegioplanck.com.br/wp-content/uploads/2021/06/Colegio-Planck-Profissao-programador-o-que-faz-esse-profissional-tao-disputado-no-mercado-arte-Autores-Grupo-S2-Marketing-Freepik.jpg)]()
 
 <h1 align="center">Olá  👋, Sou Vitor Eduardo</h1>
 <h3 align="center">Cursando Ciência da Computação na UTFPR</h3>
