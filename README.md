@@ -5,8 +5,8 @@
 
 - ### 👨‍💻 Sou um entusiasta de Python apaixonado por aplicar técnicas de machine learning e ciência de dados para resolver problemas do mundo real. Estou constantemente buscando maneiras de aplicar meu conhecimento para criar soluções inovadoras e impactantes.
 
-![Vitor Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorEduardoLimaKenor&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorEduardoLimaKenor&theme=blue-green)
+![Vitor Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorEduardoLimaKenor)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorEduardoLimaKenor)
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
