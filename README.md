@@ -1,6 +1,6 @@
 <h1>👋 Olá, eu sou Vitor Eduardo!</h1>
 <p>🎓 Cursando Ciência da Computação (UTFPR).</p>
-<p>💻 ML Engineer Júnior.</p>
+<p>💻 ML Engineer Junior.</p>
 <p>🏢 Faço parte do <a href="https://www.lamia-edu.com/" target="_blank">LAMIA</a>, onde atualmente estou trabalhando.</p>
 <p>📝 Sempre com vontade de aplicar na prática tudo que estou aprendendo.</p>
 
