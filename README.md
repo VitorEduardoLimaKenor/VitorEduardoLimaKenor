@@ -28,6 +28,7 @@
     <a target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Dark.svg" alt="VSCode" width="32" height="32"></a>
     <a target="_blank"><img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/74eb1bace25173e2113b57084a11f755abafdbbe/assets/googlecolab-auto.svg" alt="GoogleColab" width="32" height="32"></a>
     <a target="_blank"><img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/74eb1bace25173e2113b57084a11f755abafdbbe/assets/huggingface-auto.svg" alt="Huggingface" width="32" height="32"></a>
+    <a target="_blank"><img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/74eb1bace25173e2113b57084a11f755abafdbbe/assets/groq-auto.svg" alt="Groq" width="32" height="32"></a>
 </div>
 
 <h2>📱 Redes Sociais</h2>
