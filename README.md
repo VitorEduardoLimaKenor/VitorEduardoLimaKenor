@@ -6,7 +6,6 @@
 
 <h2>🛠 linguagens, tecnologias e ferramentas:</h2>
 <div style="display: flex; gap: 10px; align-items: center;">
-    <a target="_blank"><img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/74eb1bace25173e2113b57084a11f755abafdbbe/assets/c.svg" alt="C" width="32" height="32"></a>
     <a target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg" alt="Python" width="32" height="32"></a>
     <a target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg" alt="PostgreSQL" width="32" height="32"></a>
 </div>
