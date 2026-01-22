@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:06B6D4,100:10B981&height=200&section=header&text=Vitor%20Eduardo%20de%20Lima%20Kenor&fontSize=36&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Python%20Back-end%20Developer%20&descSize=18&descAlignY=55&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:06B6D4,100:10B981&height=200&section=header&text=Vitor%20Eduardo%20de%20Lima%20Kenor&fontSize=36&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=%20Back-end%20Developer%20&descSize=18&descAlignY=55&descAlign=50"/>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
