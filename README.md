@@ -13,7 +13,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   
 #
 
-<img align="right" alt="" height="200px" src="./programming.gif" width="400">
+<img align="right" alt="" height="200px" src="./programming.gif" width="300">
 
 <h3 align="left">📫 Conecte-se Comigo!</h3>
 
