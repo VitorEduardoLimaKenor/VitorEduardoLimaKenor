@@ -42,7 +42,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <img src="https://skillicons.dev/icons?i=docker" height="40"/>
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=ubuntu" height="40"/>
-  <img width="8" />
+  <img width="8" /><br>
   <img src="https://skillicons.dev/icons?i=aws" height="40"/>
   <img width="8" />
   <img src="https://github.com/syvixor/skills-icons/blob/main/icons/n8n.svg" height="40"/>
