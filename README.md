@@ -25,23 +25,25 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 <h3 align="left">🛠️ Linguagens, Tecnologias e Ferramentas!</h3>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git" height="40"/>
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40"/>
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=python" height="40"/>
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=fastapi" height="40"/>
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=django" height="40"/>
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40"/>
+  <img src="https://skillicons.dev/icons?i=flask" height="40"/>
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40"/>
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40"/>
+  <img src="https://skillicons.dev/icons?i=git" height="40"/>
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40"/>
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=ubuntu" height="40"/>
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40"/>
   <img width="8" />
 </div>
 
