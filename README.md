@@ -61,31 +61,6 @@ https://vitoreduardolimakenor.github.io/Portfolio-Site/
 
 #
 
-<h3 align="left">📂 Projetos Publicados</h3>
-
-<p align="left">Projetos publicados com link ativo.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>Projeto</th>
-      <th>Descrição</th>
-      <th>Tecnologias</th>
-      <th>Link</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>Dog Breeds Classifier</strong></td>
-      <td>Classificação de raças de cachorros a partir de imagens, com app web público e resposta rápida.</td>
-      <td>Python, Machine Learning, Web App</td>
-      <td><a href="https://www.dog-breeds-classifier.lat/">Acessar</a></td>
-    </tr>
-  </tbody>
-</table>
-
-#
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
