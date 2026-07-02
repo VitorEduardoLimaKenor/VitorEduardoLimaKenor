@@ -50,17 +50,6 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 #
 
-<h3 align="left">📌 Portfolio</h3>
-
-<p align="left">
-🔗 Acesse meu portfólio completo:  
-<a href="https://vitoreduardolimakenor.github.io/Portfolio-Site/" target="_blank">
-https://vitoreduardolimakenor.github.io/Portfolio-Site/
-</a>
-</p>
-
-#
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
