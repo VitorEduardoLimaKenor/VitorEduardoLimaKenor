@@ -18,7 +18,6 @@
 <p align="center">
   <a href="#sobre-mim">Sobre mim</a> ·
   <a href="#experiências">Experiências</a> ·
-  <a href="#tecnologias">Tecnologias</a> ·
   <a href="#pesquisa">Pesquisa</a>
 </p>
 
@@ -26,7 +25,7 @@
 
 Sou **Vitor Eduardo de Lima Kenor**, **AI Engineer** e estudante de **Ciência da Computação na UTFPR**. Trabalho com **IA aplicada: LLMs, RAG, agentes e automações**, conectando modelos de linguagem a dados e ferramentas para resolver problemas reais de empresas.
 
-Gosto de entender o problema antes de pensar na solução — e de ver uma ideia sair do papel para se tornar algo que as pessoas usam. Meu foco é transformar processos manuais em aplicações e fluxos inteligentes com **Python**.
+Gosto de entender o problema antes de pensar na solução e de ver uma ideia sair do papel para se tornar algo que as pessoas usam. Meu foco é transformar processos manuais em aplicações e fluxos inteligentes com **Python**.
 
 🎮 **Além do código do dia a dia:** gosto de games e também desenvolvo meus próprios jogos nas horas vagas.
 
@@ -47,17 +46,6 @@ Gosto de entender o problema antes de pensar na solução — e de ver uma ideia
 - Participei do bootcamp do laboratório, com formação intensiva em **Python, Machine Learning, LLMs, RAG, Docker e visão computacional**, voltada à atuação em projetos reais.
 
 [Mais sobre minha trajetória no LinkedIn →](https://www.linkedin.com/in/vitor-eduardo-de-lima-kenor-803464273/)
-
-## Tecnologias
-
-Minha stack em destaque, com foco em **IA aplicada e automação**:
-
-| Foco | Principais tecnologias |
-| :--- | :--- |
-| **IA e agentes** | **LLMs · RAG · LangChain** |
-| **Aplicações e APIs** | **Python · FastAPI** |
-| **Dados e nuvem** | **PostgreSQL · Google Cloud** |
-| **Automação e infraestrutura** | **n8n · Docker** |
 
 ## Pesquisa
 
