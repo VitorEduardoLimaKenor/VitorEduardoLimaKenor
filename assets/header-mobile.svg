@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="300" viewBox="0 0 560 300" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">Vitor Kenor — Inteligência artificial, LLMs, RAG e Python</title>
+  <desc id="description">Banner para telas pequenas com o nome Vitor Kenor e inteligência artificial em destaque. Pulsos suaves percorrem uma rede de nós em verde-menta e lilás, respeitando a preferência por movimento reduzido.</desc>
+  <style>
+    .signal { stroke-dasharray: 7 93; stroke-dashoffset: 100; animation: flow 6s linear infinite; }
+    .signal-secondary { animation-delay: -3s; animation-duration: 7s; }
+    .halo { opacity: .24; transform-box: fill-box; transform-origin: center; animation: breathe 4.8s ease-in-out infinite; }
+    .halo-secondary { animation-delay: -2.4s; }
+    .node { animation: illuminate 4.8s ease-in-out infinite; }
+    .node-secondary { animation-delay: -2.4s; }
+    @keyframes flow { to { stroke-dashoffset: 0; } }
+    @keyframes breathe { 0%, 100% { opacity: .16; transform: scale(.86); } 50% { opacity: .44; transform: scale(1.14); } }
+    @keyframes illuminate { 0%, 100% { fill-opacity: .48; } 50% { fill-opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) {
+      .signal, .halo, .node { animation: none; }
+      .signal { stroke-dasharray: none; opacity: .34; }
+    }
+  </style>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="560" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#111E30"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="34" y1="279" x2="526" y2="279" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#70E1C8"/>
+      <stop offset="1" stop-color="#AD9AE8" stop-opacity="0.12"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(486 101) rotate(90) scale(230)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#70E1C8" stop-opacity="0.08"/>
+      <stop offset="1" stop-color="#70E1C8" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="bounds"><rect width="560" height="300" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#bounds)">
+    <rect width="560" height="300" rx="18" fill="url(#background)"/>
+    <rect width="560" height="300" fill="url(#glow)"/>
+    <g aria-hidden="true">
+      <path d="M34 40H62" stroke="#70E1C8" stroke-width="3" stroke-linecap="round"/>
+      <path d="M72 40H80" stroke="#AD9AE8" stroke-width="3" stroke-linecap="round"/>
+      <path d="M90 40H98" stroke="#405169" stroke-width="3" stroke-linecap="round"/>
+      <circle cx="538" cy="45" r="98" stroke="#70E1C8" stroke-opacity="0.1"/>
+      <circle cx="538" cy="45" r="134" stroke="#AD9AE8" stroke-opacity="0.08"/>
+      <g stroke="#70E1C8" stroke-opacity="0.25" stroke-width="1.5">
+        <path d="M35 236L150 216L270 236L390 216L525 236M35 236L150 256L270 236L390 256L525 236"/>
+        <path d="M150 216H390M150 256H390" stroke="#AD9AE8" stroke-opacity="0.18"/>
+      </g>
+      <path class="signal" d="M35 236L150 216L270 236L390 216L525 236" pathLength="100" stroke="#70E1C8" stroke-width="2.5" stroke-linecap="round"/>
+      <path class="signal signal-secondary" d="M35 236L150 256L270 236L390 256L525 236" pathLength="100" stroke="#AD9AE8" stroke-width="2.5" stroke-linecap="round"/>
+      <circle class="halo" cx="270" cy="236" r="16" fill="#70E1C8"/>
+      <circle class="halo halo-secondary" cx="525" cy="236" r="13" fill="#70E1C8"/>
+      <g fill="#132536" stroke="#70E1C8" stroke-width="1.5">
+        <circle cx="35" cy="236" r="5"/>
+        <circle cx="150" cy="216" r="5"/>
+        <circle cx="150" cy="256" r="5" stroke="#AD9AE8"/>
+        <circle cx="270" cy="236" r="8"/>
+        <circle cx="390" cy="216" r="5"/>
+        <circle cx="390" cy="256" r="5" stroke="#AD9AE8"/>
+        <circle cx="525" cy="236" r="6"/>
+      </g>
+      <circle class="node" cx="270" cy="236" r="3.5" fill="#70E1C8"/>
+      <circle class="node node-secondary" cx="525" cy="236" r="2.5" fill="#70E1C8"/>
+      <path d="M34 279H526" stroke="url(#accent)"/>
+    </g>
+    <text x="31" y="115" fill="#F2F7FC" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="70" font-weight="750" letter-spacing="-3">Vitor Kenor<tspan fill="#70E1C8">.</tspan></text>
+    <text x="35" y="155" fill="#70E1C8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="23" font-weight="650" letter-spacing="1.8">INTELIGÊNCIA ARTIFICIAL</text>
+    <text x="35" y="186" fill="#B7C8DA" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="18" font-weight="500" letter-spacing="2.2">LLMs <tspan fill="#AD9AE8">/</tspan> RAG <tspan fill="#AD9AE8">/</tspan> PYTHON</text>
+  </g>
+</svg>

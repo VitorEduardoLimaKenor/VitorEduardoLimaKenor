@@ -1,57 +1,82 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:06B6D4,100:10B981&height=200&section=header&text=Vitor%20Eduardo%20de%20Lima%20Kenor&fontSize=36&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=%20Back-end%20Developer%20&descSize=18&descAlignY=55&descAlign=50"/>
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/header-mobile.svg">
+  <img src="./assets/header.svg" width="100%" alt="Vitor Kenor — inteligência artificial, LLMs, RAG e Python. Rede neural animada com conexões em verde-menta e lilás.">
+</picture>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=524&lines=%3E_+Bem-vindo+ao+meu+perfil!" alt="Typing SVG">
-</a>
-</div>
+<h1 align="center">Olá, eu sou o Vitor 👋</h1>
 
-#
+<p align="center">
+  <strong>Inteligência artificial, contexto e código para transformar ideias em aplicações.</strong>
+</p>
 
-<p align="center">Estudante de Ciência da Computação na Universidade Tecnológica Federal do Paraná. Atualmente trabalho com LLMs e RAG e estudo Back-End Python paralelamente.
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
-  
-#
+<p align="center">
+  <a href="https://www.linkedin.com/in/vitor-eduardo-de-lima-kenor-803464273/"><img src="./assets/linkedin.svg" alt="Conecte-se comigo no LinkedIn" height="36"></a>
+  &nbsp;
+  <a href="mailto:vitoreduardokenor@gmail.com"><img src="./assets/email.svg" alt="Envie um e-mail para vitoreduardokenor@gmail.com" height="36"></a>
+</p>
 
-<img align="right" alt="" height="200px" src="./programming.gif" width="300">
+<p align="center">
+  <a href="#sobre-mim">Sobre mim</a> ·
+  <a href="#experiências">Experiências</a> ·
+  <a href="#tecnologias">Tecnologias</a> ·
+  <a href="#pesquisa">Pesquisa</a>
+</p>
 
-<h3 align="left">📫 Conecte-se Comigo!</h3>
+## Sobre mim
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-eduardo-de-lima-kenor-803464273/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitoreduardokenor@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/vitoreduardo.)
+Sou **Vitor Eduardo de Lima Kenor**, **AI Engineer** e estudante de **Ciência da Computação na UTFPR**. Trabalho com **IA aplicada: LLMs, RAG, agentes e automações**, conectando modelos de linguagem a dados e ferramentas para resolver problemas reais de empresas.
 
+Gosto de entender o problema antes de pensar na solução — e de ver uma ideia sair do papel para se tornar algo que as pessoas usam. Meu foco é transformar processos manuais em aplicações e fluxos inteligentes com **Python**.
 
-<h3 align="left">🛠️ Linguagens, Tecnologias e Ferramentas!</h3>
+🎮 **Além do código do dia a dia:** gosto de games e também desenvolvo meus próprios jogos nas horas vagas.
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="40"/>
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="40"/>
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=django" height="40"/>
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=flask" height="40"/>
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40"/>
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
-  <img width="8" /><br>
-  <img src="https://skillicons.dev/icons?i=git" height="40"/>
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40"/>
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=ubuntu" height="40"/>
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40"/>
-  <img width="8" />
-  <img src="https://github.com/syvixor/skills-icons/blob/main/icons/n8n.svg" height="40"/>
-</div>
+## Experiências
 
-#
+### BigLink · Engenheiro de IA Júnior
 
-<picture align="center">
+**Out. 2024 — atual** · Estágio · Remoto
+
+- Desenvolvimento de **agente NL2SQL**, que transforma perguntas em linguagem natural em consultas SQL.
+- Aplicação de **processamento de linguagem natural (NLP)** à análise e otimização de campanhas de marketing digital em diferentes plataformas.
+
+### LAMIA · Membro do Laboratório de IA
+
+**Abr. 2024 — atual** · Temporário · Híbrido · Santa Helena–PR
+
+- Integro o laboratório de inteligência artificial da UTFPR, que desenvolve **pesquisa e desenvolvimento em IA em parceria com empresas**.
+- Participei do bootcamp do laboratório, com formação intensiva em **Python, Machine Learning, LLMs, RAG, Docker e visão computacional**, voltada à atuação em projetos reais.
+
+[Mais sobre minha trajetória no LinkedIn →](https://www.linkedin.com/in/vitor-eduardo-de-lima-kenor-803464273/)
+
+## Tecnologias
+
+Minha stack em destaque, com foco em **IA aplicada e automação**:
+
+| Foco | Principais tecnologias |
+| :--- | :--- |
+| **IA e agentes** | **LLMs · RAG · LangChain** |
+| **Aplicações e APIs** | **Python · FastAPI** |
+| **Dados e nuvem** | **PostgreSQL · Google Cloud** |
+| **Automação e infraestrutura** | **n8n · Docker** |
+
+## Pesquisa
+
+Também levo meu interesse por IA para a pesquisa acadêmica:
+
+> **Menos complexidade, mais contexto: um framework RAG para recuperação de exemplos em Text2SQL**<br>
+> Trabalho com Thiago França Naves, publicado nos anais do **SEI/SICITE 2025 — UTFPR**.<br>
+> [Consultar a publicação →](https://www.even3.com.br/anais/sei-sicite-2025-593680/1269391-menos-complexidade-mais-contexto--um-framework-rag-para-recuperacao-de-exemplos-em-text2sql/)
+
+---
+
+### Vamos conversar?
+
+Tem uma ideia, um projeto ou quer trocar experiências sobre Python e inteligência artificial? Entre em contato pelo [LinkedIn](https://www.linkedin.com/in/vitor-eduardo-de-lima-kenor-803464273/) ou pelo e-mail **[vitoreduardokenor@gmail.com](mailto:vitoreduardokenor@gmail.com)**.
+
+<p align="center"><sub>Aprendendo, experimentando e construindo — um projeto de cada vez.</sub></p>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="100%" alt="Animação de uma minhoca percorrendo um gráfico de contribuições do GitHub.">
 </picture>
