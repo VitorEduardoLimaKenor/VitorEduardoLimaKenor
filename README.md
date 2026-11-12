@@ -1,6 +1,6 @@
 <picture>
   <source media="(max-width: 600px)" srcset="./assets/header-mobile.svg">
-  <img src="./assets/header.svg" width="100%" alt="Vitor Kenor — inteligência artificial, LLMs, RAG e Python. Rede neural animada com conexões em verde-menta e lilás.">
+  <img src="./assets/header.svg" width="100%" alt="Vitor Kenor — Engenheiro de IA, LLMs, RAG e Python. Rede neural animada com conexões em verde-menta e lilás.">
 </picture>
 
 <h1 align="center">Olá, eu sou o Vitor 👋</h1>
