@@ -61,8 +61,6 @@ Também levo meu interesse por IA para a pesquisa acadêmica:
 
 Tem uma ideia, um projeto ou quer trocar experiências sobre Python e inteligência artificial? Entre em contato pelo [LinkedIn](https://www.linkedin.com/in/vitor-eduardo-de-lima-kenor-803464273/) ou pelo e-mail **[vitoreduardokenor@gmail.com](mailto:vitoreduardokenor@gmail.com)**.
 
-<p align="center"><sub>Aprendendo, experimentando e construindo — um projeto de cada vez.</sub></p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
