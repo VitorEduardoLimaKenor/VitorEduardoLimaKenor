@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" fill="none" role="img" aria-labelledby="title description">
-  <title id="title">Vitor Kenor — Inteligência artificial, LLMs, RAG e Python</title>
+  <title id="title">Vitor Kenor — Engenheiro de IA — LLMs, RAG e Agentes de IA</title>
   <desc id="description">Banner azul-marinho com o nome Vitor Kenor e uma rede neural abstrata. Pulsos suaves percorrem as conexões em verde-menta e lilás. A animação respeita a preferência por movimento reduzido.</desc>
   <style>
     .signal { stroke-dasharray: 7 93; stroke-dashoffset: 100; animation: flow 6s linear infinite; }
@@ -78,7 +78,7 @@
       <path d="M56 244H944" stroke="url(#accent)"/>
     </g>
     <text x="53" y="128" fill="#F2F7FC" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="70" font-weight="750" letter-spacing="-3">Vitor Kenor<tspan fill="#70E1C8">.</tspan></text>
-    <text x="57" y="167" fill="#70E1C8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="21" font-weight="650" letter-spacing="1.7">INTELIGÊNCIA ARTIFICIAL</text>
-    <text x="57" y="197" fill="#B7C8DA" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="16" font-weight="500" letter-spacing="2">LLMs <tspan fill="#AD9AE8">/</tspan> RAG <tspan fill="#AD9AE8">/</tspan> PYTHON</text>
+    <text x="57" y="167" fill="#70E1C8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="21" font-weight="650" letter-spacing="1.7">Engenheiro de IA</text>
+    <text x="57" y="197" fill="#B7C8DA" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="16" font-weight="500" letter-spacing="2">LLMs <tspan fill="#AD9AE8">/</tspan> RAG <tspan fill="#AD9AE8">/</tspan> Agentes de IA</text>
   </g>
 </svg>
